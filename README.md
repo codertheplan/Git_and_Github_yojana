@@ -8,6 +8,8 @@ This repository is dedicated to helping you learn about version control using Gi
 
 Click the "Fork" button on the upper right corner of the GitHub repository page.
 
+![Picture to show "Fork" button](./Fork.png)
+
 ### Step 2: Clone the Repository to Your Local Machine
 
 Open your terminal and use the following command to clone the repository to your local machine:
