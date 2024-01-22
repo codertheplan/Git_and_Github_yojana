@@ -17,6 +17,7 @@ Open your terminal and use the following command to clone the repository to your
 ```bash
 git clone https://github.com/your-username/repository.git
 ```
+![Picture to show repo link ](./clone.png)
 
 ## Create a New Branch:
 
